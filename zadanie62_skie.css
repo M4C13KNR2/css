@@ -1,0 +1,18 @@
+p
+{
+font-size:8mm;
+color:silver;
+}
+p:lang(pl)
+{
+font-size:9mm;
+font-weight:bold;
+color:orange;
+}
+p:lang(en)
+{
+font-size:13mm; 
+font-style:italic;
+color:lime;
+}
+/*Maciej Skierka*/
